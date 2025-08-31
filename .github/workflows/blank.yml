@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIOPLUSS CHEMICAL GROUP | KONTRAKTOR IPAL KLINIK</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>BIOPLUSS CHEMICAL GROUP</h1>
+            <p class="tagline">KONTRAKTOR IPAL KLINIK</p>
+        </header>
+        <section class="contact">
+            <h2>Hubungi Kami</h2>
+            <p>Whatsapp: <a href="https://wa.me/6282170555720" target="_blank">0821-7055-720</a></p>
+        </section>
+        <footer>
+            <p>&copy; 2025 BIOPLUSS CHEMICAL GROUP. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
